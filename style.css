@@ -1,0 +1,29 @@
+#container {
+    width: 40rem;
+    height: 40rem;
+    position: relative;
+    border: 1px solid red;
+    left: 9%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: flex-start;
+}
+
+.divGrid {
+    background-color: black;
+    color: rgb(115, 114, 114);
+    margin: 0;
+    width: 10rem;
+    height: 10rem;
+}
+
+#size-o-meter {
+    margin-left: 9%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.my-color-class {
+    background-color: green;
+}
